@@ -1,7 +1,191 @@
-#mau apa ngentod
-#mau recode ya
-#silahkan
-#silahkan di dycript
-z="
-";bDz='b pr';yBz='┘├┴┐';Lz='#BIR';Xz='RPLE';RHz='1.9.';cCz='═══╗';gHz='rima';RFz='/sto';YBz='▬๑۩۩';IDz=''\''[0]';RDz='b v️';tHz='ruby';mDz='amon';bz='N';gDz='b VI';JEz='Fb B';aDz=''\''[4]';CGz='FB.p';GFz='SETA';qEz='ark|';AFz='://g';PDz='>> D';mGz='9 ]';pGz='ark.';cBz='1;92';NCz='  ╚═';ZHz='99 ]';tBz='_ --';jGz='Drag';kDz=''\''[7]';AEz=''\''[11';YHz='endy';NFz='tps:';lEz='ack|';Qz='m'\'' #';bBz='3m█\';hFz='.py';iBz='33[1';hDz='P ✔️';VDz='b v1';cHz=' '\''go';lFz='|lol';nHz='5'\''';DGz='5 ]';YFz=' req';WHz='cd M';fGz='er26';vGz='en.p';rFz='ark-';iGz='cd v';eHz='ye'\''';JHz='13 ]';NDz=' 🔞'\''';eCz='1;96';xGz='11/c';SBz='█▄█ ';TCz='███ ';GEz='Fb a';IEz=''\''[14';kFz='nama';YDz=''\''[3]';dHz='od b';mEz='lolc';rHz='et s';xBz='─┤├┬';yFz='arkP';ZBz='๑▬▬▬';vCz='0156';hBz='--\0';oDz=''\''[8]';sDz=' ✔️'\''';RGz='1';rEz='pkg ';oFz='XsZ/';TGz='ro26';kz='ku='\''';OGz='a261';HBz='u $n';wEz='clon';HEz='su ✔';PBz='█';aFz='s';EEz='BLI2';eGz='/cyb';HHz='-ibl';dDz='m ✔️';Wz=' #PU';Sz='pur=';iCz='hor ';DFz='m/pa';pz=' -p ';FEz=''\''[13';XHz='Mr.r';bCz='════';fCz='m* \';YEz='u"]"';PGz='1/Pr';vDz='Dark';QBz='[1;9';bHz='xit|';DBz='╤─ -';az='#CYA';vEz='git ';HGz='k-vp';kCz='93mB';Bz='r';qz=''\''nam';LDz='ll b';YCz='3m █';Zz='[36;';xEz='e  h';oBz='═╗╔╗';tFz='dark';aGz='diam';sz='da :';IFz='ETAN';vFz='/The';lCz='roth';KHz='asu';uFz='4 ]';EFz='shay';cFz='hani';uz='ama';rGz='11/d';qCz=' ║';ZCz='█ ██';PFz='thub';fDz=''\''[5]';QCz='s-Da';XBz='▬▬▬▬';EGz='/m4r';RCz='rk';hz='[37;';MGz='6 ]';tGz='r11';IBz='ama ';dCz='3m║\';WCz='--✧-';vHz='uire';BDz='3m╚═';MFz='e ht';KFz='fi';gBz=' --_';QFz='.com';Az='clea';SHz='15 ]';CHz='ium2';qGz='10 ]';jCz='93m:';dz='[31;';tEz='all ';BGz='um';gz='pu='\''';qHz='0 ]';Cz='echo';nFz='/Mr-';SFz='riku';WGz='py';EHz='12 ]';ICz=';96m';dFz='ze';xCz='33[0';wGz='11 ]';aBz='▬●';Yz='cy='\''';rz='a an';vBz=';93m';lGz='1.2.';XGz='7 ]';PEz=''\''[99';ZEz=' -p"';xFz='zz/D';cGz='1.py';pEz='ll d';mBz='┐┬┌─';BBz=')';yGz='2.5';Tz=''\''\03';UDz=''\''[2]';XFz='tall';Iz='\033';sGz='cybe';lBz='─┐┬─';Fz='gg.p';KEz='HV26';WDz='.7 ✖';Ez='on2 ';AHz='cd c';kGz='on-v';sFz='Fb';TEz='"$i"';MDz='ahan';Oz='033[';uCz='5691';Uz='3[35';bEz=': " ';sEz='inst';BFz='ithu';VBz='3[1;';hEz='then';MEz='Fb M';oHz='slee';gGz='11/v';UFz='kfb';SCz='3m██';ADz='   ║';JCz='═╩╝┴';CDz='═══╝';wz=' "';KDz='nsta';IGz='ro';VEz='@mr.';hCz='mAut';kEz='r.bl';KCz=' ┴┴└';VFz='pip2';qDz=''\''[9]';JDz='>> i';QHz='vip-';uHz='gem ';Rz='IJO';iHz='h'\''';HFz='cd S';EDz=' $me';ez='#MER';DHz='.5.p';rCz='mWA ';hHz='kasi';FGz='che3';pHz='p 2';aCz='3m╔═';lz='[33;';dGz='8 ]';mFz='cat';jFz='et $';Vz=';1m'\''';hGz='1.2';xz='_/﹋\';BCz='╣ ╠╩';rBz='m_-_';WFz=' ins';LCz='─┴ ┴';FFz='ogi/';EBz=' - -';fFz='arkf';VGz='Pro.';UCz='92m«';iDz=''\''[6]';Gz='y';uGz='kapt';XCz='-»';uEz='git';WBz='91m●';mHz='1563';KBz=':v';fz='AH';LFz='2 ]';NHz='14 ]';JGz='vpro';ZGz='ls';jHz=' '\''Wa';QEz='exit';VCz='----';OBz='████';GBz='i ka';nBz='   ╔';sBz='-- -';ACz='───╠';LHz='kima';eEz=' $pi';tDz=''\''[10';DCz='m▲▲▲';UHz='r.RE';uDz=']>> ';nDz='d ✖️';tCz='4m08';CEz=''\''[12';DEz='Fb I';nCz='mr.b';tz=' '\'' n';wFz='Magi';yDz=' 11 ';yEz='ttps';NEz='r.Re';TDz='✔️'\''';XDz='️'\''';QGz='o261';MCz='   ╚';RBz='3m█▄';ABz='(ಠ益ಠ';nGz='2-da';ODz=''\''[1]';pFz='-Fb';wBz=' ║║├';OHz='11/B';cz='me='\''';UBz=' \03';iz='#PUT';jEz='et m';oEz='et i';Mz='U';yCz='m \0';THz='11/M';NGz='/wir';wHz='ment';xDz='yber';OFz='//gi';QDz='arkF';bFz=' mec';KGz='-vpr';mz='#KUN';rDz='b V2';sCz='93m\';HCz='- _ ';bGz='ond-';FDz=''\''[==';FBz=' mat';nEz='at';MBz=' $pu';oCz='lack';UGz='11';nz='ING';BEz=' 2.5';eFz='cd d';lDz='b di';FHz='11/I';IHz='is.p';vz=' $cy';gFz='b';pDz='.2 ✔';mCz='er•|';cEz='pil';FCz=';92m';Hz='bi='\''';aEz='╰─> ';GDz='====';eBz='▼▼ \';jDz='o ✔️';oGz='v2-d';MHz='k.py';SGz='cd P';WEz='blac';UEz='r00t';TFz='/dar';OEz='ndy ';qFz='cd D';kHz=':085';pCz='  \0';yz='_';HDz=']'\''';BHz='Prem';JBz='anjg';YGz='1/di';GGz='ll-c';wDz='Fb c';fEz='l = ';fHz=' '\''te';OCz='╝ \0';AGz='remi';SEz='"╭─[';iEz='figl';iFz='3 ]';CBz='<,︻╦';Nz='i='\''\';gCz='1;93';oz='read';Jz='[34;';Dz='pyth';CFz='b.co';REz=' 🚭'\''';PHz='cd B';wCz='35\0';TBz='    ';ZFz='uest';GCz='--  ';kBz='╔╦╗┌';LEz=''\''[15';GHz='cd I';lHz='6910';uBz='__\0';aHz='et e';Kz='1m'\'' ';jz='IH';fBz='m- _';sHz='abar';VHz='NDY';qBz='2m \';dBz='m▼▼▼';cDz='emiu';CCz='╗';JFz='N.py';LBz='_"';dEz='if [';DDz='"""';pBz='3m█ ';ZDz='.8 ✔';jBz=';95m';PCz='tool';Pz='32;1';SDz='1.6 ';ECz='▲▲\0';NBz='r"';eDz=''\''';gEz='1 ]';LGz='o.py';XEz='k"$p';
-eval "$Az$Bz$z$Cz$z$Dz$Ez$Fz$Gz$z$Cz$z$Az$Bz$z$Hz$Iz$Jz$Kz$Lz$Mz$z$Nz$Oz$Pz$Qz$Rz$z$Sz$Tz$Uz$Vz$Wz$Xz$z$Yz$Iz$Zz$Kz$az$bz$z$cz$Iz$dz$Kz$ez$fz$z$gz$Iz$hz$Kz$iz$jz$z$kz$Iz$lz$Kz$mz$nz$z$oz$pz$qz$rz$sz$tz$uz$z$Az$Bz$z$Cz$vz$wz$z$xz$yz$z$ABz$BBz$z$CBz$DBz$EBz$FBz$GBz$HBz$IBz$JBz$KBz$z$xz$LBz$z$Cz$MBz$NBz$z$OBz$OBz$PBz$z$Iz$QBz$RBz$OBz$SBz$TBz$UBz$VBz$WBz$XBz$XBz$YBz$ZBz$XBz$aBz$z$Iz$QBz$bBz$Oz$cBz$dBz$eBz$Oz$cBz$fBz$gBz$hBz$iBz$jBz$kBz$lBz$mBz$nBz$oBz$z$Iz$QBz$pBz$Iz$QBz$qBz$Oz$cBz$rBz$sBz$tBz$uBz$iBz$vBz$wBz$xBz$yBz$ACz$BCz$CCz$z$Iz$QBz$bBz$Oz$cBz$DCz$ECz$iBz$FCz$GCz$HCz$hBz$iBz$ICz$JCz$KCz$LCz$MCz$NCz$OCz$iBz$ICz$PCz$QCz$RCz$z$Iz$QBz$SCz$OBz$TCz$TBz$UBz$VBz$UCz$VCz$VCz$WCz$VCz$VCz$XCz$z$Iz$QBz$YCz$ZCz$z$Iz$QBz$aCz$bCz$bCz$bCz$bCz$bCz$bCz$bCz$bCz$bCz$bCz$cCz$z$Iz$QBz$dCz$Oz$eCz$fCz$Oz$gCz$hCz$iCz$UBz$VBz$jCz$UBz$VBz$kCz$lCz$mCz$nCz$oCz$pCz$iBz$vBz$TBz$TBz$TBz$qCz$z$Iz$QBz$dCz$Oz$eCz$fCz$Oz$gCz$rCz$TBz$UBz$VBz$jCz$UBz$VBz$sCz$Oz$tCz$uCz$vCz$wCz$xCz$yCz$iBz$vBz$TBz$TBz$TBz$TBz$ADz$z$Iz$QBz$BDz$bCz$bCz$bCz$bCz$bCz$bCz$bCz$bCz$bCz$bCz$CDz$DDz$z$Cz$EDz$FDz$GDz$GDz$GDz$GDz$GDz$GDz$GDz$HDz$z$Cz$MBz$IDz$JDz$KDz$LDz$MDz$NDz$z$Cz$EDz$FDz$GDz$GDz$GDz$GDz$GDz$GDz$GDz$HDz$z$Cz$MBz$ODz$PDz$QDz$RDz$SDz$TDz$z$Cz$EDz$FDz$GDz$GDz$GDz$GDz$GDz$GDz$GDz$HDz$z$Cz$MBz$UDz$PDz$QDz$VDz$WDz$XDz$z$Cz$EDz$FDz$GDz$GDz$GDz$GDz$GDz$GDz$GDz$HDz$z$Cz$MBz$YDz$PDz$QDz$VDz$ZDz$XDz$z$Cz$EDz$FDz$GDz$GDz$GDz$GDz$GDz$GDz$GDz$HDz$z$Cz$MBz$aDz$PDz$QDz$bDz$cDz$dDz$eDz$z$Cz$EDz$FDz$GDz$GDz$GDz$GDz$GDz$GDz$GDz$HDz$z$Cz$MBz$fDz$PDz$QDz$gDz$hDz$eDz$z$Cz$EDz$FDz$GDz$GDz$GDz$GDz$GDz$GDz$GDz$HDz$z$Cz$MBz$iDz$PDz$QDz$bDz$jDz$eDz$z$Cz$EDz$FDz$GDz$GDz$GDz$GDz$GDz$GDz$GDz$HDz$z$Cz$MBz$kDz$PDz$QDz$lDz$mDz$nDz$eDz$z$Cz$EDz$FDz$GDz$GDz$GDz$GDz$GDz$GDz$GDz$HDz$z$Cz$MBz$oDz$PDz$QDz$VDz$pDz$XDz$z$Cz$EDz$FDz$GDz$GDz$GDz$GDz$GDz$GDz$GDz$HDz$z$Cz$MBz$qDz$PDz$QDz$rDz$sDz$z$Cz$EDz$FDz$GDz$GDz$GDz$GDz$GDz$GDz$GDz$HDz$z$Cz$MBz$tDz$uDz$vDz$wDz$xDz$yDz$TDz$z$Cz$EDz$FDz$GDz$GDz$GDz$GDz$GDz$GDz$GDz$HDz$z$Cz$MBz$AEz$uDz$vDz$wDz$xDz$BEz$sDz$z$Cz$EDz$FDz$GDz$GDz$GDz$GDz$GDz$GDz$GDz$HDz$z$Cz$MBz$CEz$uDz$vDz$DEz$EEz$sDz$z$Cz$EDz$FDz$GDz$GDz$GDz$GDz$GDz$GDz$GDz$HDz$z$Cz$MBz$FEz$uDz$vDz$GEz$HEz$XDz$z$Cz$EDz$FDz$GDz$GDz$GDz$GDz$GDz$GDz$GDz$HDz$z$Cz$MBz$IEz$uDz$vDz$JEz$KEz$sDz$z$Cz$EDz$FDz$GDz$GDz$GDz$GDz$GDz$GDz$GDz$HDz$z$Cz$MBz$LEz$uDz$vDz$MEz$NEz$OEz$TDz$z$Cz$EDz$FDz$GDz$GDz$GDz$GDz$GDz$GDz$GDz$HDz$z$Cz$MBz$PEz$uDz$QEz$REz$z$Cz$EDz$FDz$GDz$GDz$GDz$GDz$GDz$GDz$GDz$HDz$z$Cz$MBz$SEz$TEz$UEz$VEz$WEz$XEz$YEz$z$oz$ZEz$aEz$bEz$cEz$z$dEz$eEz$fEz$gEz$z$hEz$z$iEz$jEz$kEz$lEz$mEz$nEz$z$iEz$oEz$KDz$pEz$qEz$mEz$nEz$z$rEz$sEz$tEz$uEz$z$vEz$wEz$xEz$yEz$AFz$BFz$CFz$DFz$EFz$FFz$GFz$bz$z$HFz$IFz$z$Dz$Ez$GFz$JFz$z$KFz$z$dEz$eEz$fEz$LFz$z$hEz$z$iEz$oEz$KDz$pEz$qEz$mEz$nEz$z$vEz$wEz$MFz$NFz$OFz$PFz$QFz$RFz$SFz$TFz$UFz$z$VFz$WFz$XFz$YFz$ZFz$aFz$z$VFz$WFz$XFz$bFz$cFz$dFz$z$eFz$fFz$gFz$z$Dz$Ez$vDz$hFz$z$KFz$z$dEz$eEz$fEz$iFz$z$hEz$z$iEz$jFz$kFz$lFz$mFz$z$rEz$sEz$tEz$uEz$z$vEz$wEz$MFz$NFz$OFz$PFz$QFz$nFz$oFz$vDz$pFz$z$qFz$rFz$sFz$z$Dz$Ez$tFz$hFz$z$KFz$z$dEz$eEz$fEz$uFz$z$hEz$z$iEz$jFz$kFz$lFz$mFz$z$rEz$sEz$tEz$uEz$z$vEz$wEz$MFz$NFz$OFz$PFz$QFz$vFz$wFz$xFz$yFz$AGz$BGz$z$qFz$yFz$AGz$BGz$z$Dz$Ez$vDz$CGz$Gz$z$KFz$z$dEz$eEz$fEz$DGz$z$hEz$z$iEz$jFz$kFz$lFz$mFz$z$rEz$sEz$tEz$uEz$z$vEz$wEz$MFz$NFz$OFz$PFz$QFz$EGz$FGz$GGz$xDz$TFz$HGz$IGz$z$eFz$rFz$JGz$z$Dz$Ez$tFz$KGz$LGz$z$KFz$z$dEz$eEz$fEz$MGz$z$hEz$z$iEz$jFz$kFz$lFz$mFz$z$vEz$wEz$MFz$NFz$OFz$PFz$QFz$NGz$OGz$PGz$QGz$RGz$z$SGz$TGz$UGz$z$Dz$Ez$VGz$WGz$z$KFz$z$dEz$eEz$fEz$XGz$z$hEz$z$iEz$jFz$kFz$lFz$mFz$z$vEz$wEz$MFz$NFz$OFz$PFz$QFz$NGz$OGz$PGz$QGz$YGz$mDz$z$SGz$TGz$UGz$z$ZGz$z$Dz$Ez$aGz$bGz$cGz$z$KFz$z$dEz$eEz$fEz$dGz$z$hEz$z$iEz$jFz$kFz$lFz$mFz$z$vEz$wEz$MFz$NFz$OFz$PFz$QFz$eGz$fGz$gGz$hGz$z$ZGz$z$iGz$hGz$z$ZGz$z$Dz$Ez$jGz$kGz$lGz$WGz$z$KFz$z$dEz$eEz$fEz$mGz$z$hEz$z$iEz$jFz$kFz$lFz$mFz$z$vEz$wEz$MFz$NFz$OFz$PFz$QFz$eGz$fGz$gGz$nGz$RCz$z$iGz$nGz$RCz$z$ZGz$z$Dz$Ez$oGz$pGz$WGz$z$KFz$z$dEz$eEz$fEz$qGz$z$hEz$z$iEz$jFz$kFz$lFz$mFz$z$vEz$wEz$MFz$NFz$OFz$PFz$QFz$eGz$fGz$rGz$rFz$sGz$tGz$z$eFz$rFz$sGz$tGz$z$ZGz$z$Dz$Ez$uGz$vGz$Gz$z$KFz$z$dEz$eEz$fEz$wGz$z$hEz$z$iEz$jFz$kFz$lFz$mFz$z$vEz$wEz$MFz$NFz$OFz$PFz$QFz$eGz$fGz$xGz$xDz$yGz$z$AHz$xDz$yGz$z$ZGz$z$Dz$Ez$BHz$CHz$DHz$Gz$z$KFz$z$dEz$eEz$fEz$EHz$z$hEz$z$iEz$jFz$kFz$lFz$mFz$z$vEz$wEz$MFz$NFz$OFz$PFz$QFz$eGz$fGz$FHz$EEz$z$GHz$EEz$z$ZGz$z$Dz$Ez$tFz$HHz$IHz$Gz$z$KFz$z$dEz$eEz$fEz$JHz$z$hEz$z$iEz$jFz$kFz$lFz$mFz$z$vEz$wEz$MFz$NFz$OFz$PFz$QFz$eGz$fGz$rGz$rFz$KHz$z$eFz$rFz$KHz$z$ZGz$z$Dz$Ez$LHz$MHz$z$KFz$z$dEz$eEz$fEz$NHz$z$hEz$z$iEz$jFz$kFz$lFz$mFz$z$vEz$wEz$MFz$NFz$OFz$PFz$QFz$eGz$fGz$OHz$KEz$z$PHz$KEz$z$ZGz$z$Dz$Ez$QHz$RHz$WGz$z$KFz$z$dEz$eEz$fEz$SHz$z$hEz$z$iEz$jFz$kFz$lFz$mFz$z$vEz$wEz$MFz$NFz$OFz$PFz$QFz$eGz$fGz$THz$UHz$VHz$z$WHz$UHz$VHz$z$ZGz$z$Dz$Ez$XHz$YHz$hFz$z$KFz$z$dEz$eEz$fEz$ZHz$z$hEz$z$iEz$aHz$bHz$mEz$nEz$z$Cz$cHz$dHz$eHz$z$Cz$fHz$gHz$hHz$iHz$z$Cz$jHz$kHz$lHz$mHz$nHz$z$oHz$pHz$z$QEz$z$KFz$z$dEz$eEz$fEz$qHz$z$hEz$z$iEz$rHz$sHz$mEz$nEz$z$rEz$sEz$tEz$tHz$z$uHz$sEz$tEz$mEz$nEz$z$VFz$WFz$XFz$YFz$ZFz$aFz$z$VFz$WFz$XFz$bFz$cFz$dFz$z$VFz$WFz$XFz$YFz$vHz$wHz$aFz$z$KFz"
+clear
+echo
+python2 gg.py
+echo
+clear
+bi='\033[34;1m' #BIRU
+i='\033[32;1m' #IJO
+pur='\033[35;1m' #PURPLE
+cy='\033[36;1m' #CYAN
+me='\033[31;1m' #MERAH
+pu='\033[37;1m' #PUTIH
+ku='\033[33;1m' #KUNING
+read -p 'nama anda : ' nama
+clear
+echo $cy "
+_/﹋\_
+(ಠ益ಠ)
+<,︻╦╤─ - - - mati kau $nama anjg:v
+_/﹋\_"
+echo $pur"
+█████████
+\033[1;93m█▄█████▄█      \033[1;91m●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●
+\033[1;93m█\033[1;92m▼▼▼▼▼ \033[1;92m- _ --_--\033[1;95m╔╦╗┌─┐┬─┐┬┌─   ╔═╗╔╗
+\033[1;93m█ \033[1;92m \033[1;92m_-_-- -_ --__\033[1;93m ║║├─┤├┬┘├┴┐───╠╣ ╠╩╗
+\033[1;93m█\033[1;92m▲▲▲▲▲\033[1;92m--  - _ --\033[1;96m═╩╝┴ ┴┴└─┴ ┴   ╚  ╚═╝ \033[1;96mtools-Dark
+\033[1;93m█████████      \033[1;92m«----------✧----------»
+\033[1;93m ██ ██
+\033[1;93m╔════════════════════════════════════════════╗
+\033[1;93m║\033[1;96m* \033[1;93mAuthor  \033[1;93m: \033[1;93mBrother•|mr.black  \033[1;93m             ║
+\033[1;93m║\033[1;96m* \033[1;93mWA      \033[1;93m: \033[1;93m\033[4m085691015635\033[0m \033[1;93m                   ║
+\033[1;93m╚════════════════════════════════════════════╝"""
+echo $me'[==============================]'
+echo $pu'[0]>> install bahan 🔞'
+echo $me'[==============================]'
+echo $pu'[1]>> DarkFb v️1.6 ✔️'
+echo $me'[==============================]'
+echo $pu'[2]>> DarkFb v1.7 ✖️'
+echo $me'[==============================]'
+echo $pu'[3]>> DarkFb v1.8 ✔️'
+echo $me'[==============================]'
+echo $pu'[4]>> DarkFb premium ✔️'
+echo $me'[==============================]'
+echo $pu'[5]>> DarkFb VIP ✔️'
+echo $me'[==============================]'
+echo $pu'[6]>> DarkFb pro ✔️'
+echo $me'[==============================]'
+echo $pu'[7]>> DarkFb diamond ✖️'
+echo $me'[==============================]'
+echo $pu'[8]>> DarkFb v1.2 ✔️'
+echo $me'[==============================]'
+echo $pu'[9]>> DarkFb V2 ✔️'
+echo $me'[==============================]'
+echo $pu'[10]>> DarkFb cyber 11 ✔️'
+echo $me'[==============================]'
+echo $pu'[11]>> DarkFb cyber 2.5 ✔️'
+echo $me'[==============================]'
+echo $pu'[12]>> DarkFb IBLI2 ✔️'
+echo $me'[==============================]'
+echo $pu'[13]>> DarkFb asu ✔️'
+echo $me'[==============================]'
+echo $pu'[14]>> DarkFb BHV26 ✔️'
+echo $me'[==============================]'
+echo $pu'[15]>> DarkFb Mr.Rendy ✔️'
+echo $me'[==============================]'
+echo $pu'[99]>> exit 🚭'
+echo $me'[==============================]'
+echo $pu"╭─["$i"r00t@mr.black"$pu"]"
+read -p"╰─> : " pil
+if [ $pil = 1 ]; then
+    figlet mr.black|lolcat
+    figlet install dark|lolcat
+    pkg install git
+    git clone  https://github.com/pashayogi/SETAN
+    cd SETAN
+    python2 SETAN.py
+fi
+if [ $pil = 2 ]; then
+    figlet install dark|lolcat
+    git clone https://github.com/storiku/darkfb
+    pip2 install requests
+    pip2 install mechanize
+    cd darkfb
+    python2 Dark.py
+fi
+if [ $pil = 3 ]; then
+    figlet $nama|lolcat
+    pkg install git
+    git clone https://github.com/Mr-XsZ/Dark-Fb
+    cd Dark-Fb
+    python2 dark.py
+fi
+if [ $pil = 4 ]; then
+    figlet $nama|lolcat
+    pkg install git
+    git clone https://github.com/TheMagizz/DarkPremium
+    cd DarkPremium
+    python2 DarkFB.py
+fi
+if [ $pil = 5 ]; then
+    figlet $nama|lolcat
+    pkg install git
+    git clone https://github.com/m4rche3ll-cyber/dark-vpro
+    cd dark-vpro
+    python2 dark-vpro.py
+fi
+if [ $pil = 6 ]; then
+    figlet $nama|lolcat
+    git clone https://github.com/wira2611/Pro2611
+    cd Pro2611
+    python2 Pro.py
+fi
+if [ $pil = 7 ]; then
+    figlet $nama|lolcat
+    git clone https://github.com/wira2611/Pro2611/diamon
+    cd Pro2611
+    ls
+    python2 diamond-1.py
+fi
+if [ $pil = 8 ]; then
+    figlet $nama|lolcat
+    git clone https://github.com/cyber2611/v1.2
+    ls
+    cd v1.2
+    ls
+    python2 Dragon-v1.2.py
+fi
+if [ $pil = 9 ]; then
+    figlet $nama|lolcat
+    git clone https://github.com/cyber2611/v2-dark
+    cd v2-dark
+    ls
+    python2 v2-dark.py
+fi
+if [ $pil = 10 ]; then
+    figlet $nama|lolcat
+    git clone https://github.com/cyber2611/dark-cyber11
+    cd dark-cyber11
+    ls
+    python2 kapten.py
+fi
+if [ $pil = 11 ]; then
+    figlet $nama|lolcat
+    git clone https://github.com/cyber2611/cyber2.5
+    cd cyber2.5
+    ls
+    python2 Premium2.5.py
+fi
+if [ $pil = 12 ]; then
+    figlet $nama|lolcat
+    git clone https://github.com/cyber2611/IBLI2
+    cd IBLI2
+    ls
+    python2 dark-iblis.py
+fi
+if [ $pil = 13 ]; then
+    figlet $nama|lolcat
+    git clone https://github.com/cyber2611/dark-asu
+    cd dark-asu
+    ls
+    python2 kimak.py
+fi
+if [ $pil = 14 ]; then
+    figlet $nama|lolcat
+    git clone https://github.com/cyber2611/BHV26
+    cd BHV26
+    ls
+    python2 vip-1.9.py
+fi
+if [ $pil = 15 ]; then
+    figlet $nama|lolcat
+    git clone https://github.com/cyber2611/Mr.RENDY
+    cd Mr.RENDY
+    ls
+    python2 Mr.rendy.py
+fi
+if [ $pil = 99 ]; then
+    figlet exit|lolcat
+    echo 'good bye'
+    echo 'terimakasih'
+    echo 'Wa:085691015635'
+    sleep 2
+    exit
+fi
+if [ $pil = 0 ]; then
+    figlet sabarlolcat
+    pkg install ruby
+    gem install lolcat
+    pip2 install requests
+    pip2 install mechanize
+    pip2 install requirements
+fi
