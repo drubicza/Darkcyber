@@ -70,7 +70,6 @@ echo $pu"╭─["$i"r00t@mr.black"$pu"]"
 read -p"╰─> : " pil
 if [ $pil = 1 ]
 then
-figlet mr.black|lolcat
 figlet install dark|lolcat
 pkg install git
 git clone  https://github.com/pashayogi/SETAN
@@ -90,7 +89,7 @@ fi
 
 if [ $pil = 3 ]
 then
-figlet $nama|lolcat
+figlet install dark|lolcat
 pkg install git
 git clone https://github.com/Mr-XsZ/Dark-Fb
 cd Dark-Fb
@@ -99,7 +98,7 @@ fi
 
 if [ $pil = 4 ]
 then
-figlet $nama|lolcat
+figlet install dark|lolcat
 pkg install git
 git clone https://github.com/TheMagizz/DarkPremium
 cd DarkPremium
@@ -108,7 +107,7 @@ fi
 
 if [ $pil = 5 ]
 then
-figlet $nama|lolcat
+figlet install dark|lolcat
 pkg install git
 git clone https://github.com/m4rche3ll-cyber/dark-vpro
 cd dark-vpro
@@ -117,7 +116,7 @@ fi
 
 if [ $pil = 6 ]
 then
-figlet $nama|lolcat
+figlet install dark|lolcat
 git clone https://github.com/wira2611/Pro2611
 cd Pro2611
 python2 Pro.py
@@ -125,7 +124,7 @@ fi
 
 if [ $pil = 7 ]
 then
-figlet $nama|lolcat
+figlet install dark|lolcat
 git clone https://github.com/wira2611/Pro2611/diamon
 cd Pro2611
 ls
@@ -134,7 +133,7 @@ fi
 
 if [ $pil = 8 ]
 then
-figlet $nama|lolcat
+figlet install dark|lolcat
 git clone https://github.com/cyber2611/v1.2
 ls
 cd v1.2
@@ -144,7 +143,7 @@ fi
 
 if [ $pil = 9 ]
 then
-figlet $nama|lolcat
+figlet install dark|lolcat
 git clone https://github.com/cyber2611/v2-dark
 cd v2-dark
 ls
@@ -153,7 +152,7 @@ fi
 
 if [ $pil = 10 ]
 then
-figlet $nama|lolcat
+figlet install dark|lolcat
 git clone https://github.com/cyber2611/dark-cyber11
 cd dark-cyber11
 ls
@@ -162,7 +161,7 @@ fi
 
 if [ $pil = 11 ]
 then
-figlet $nama|lolcat
+figlet install dark|lolcat
 git clone https://github.com/cyber2611/cyber2.5
 cd cyber2.5
 ls
@@ -171,7 +170,7 @@ fi
 
 if [ $pil = 12 ]
 then
-figlet $nama|lolcat
+figlet install dark|lolcat
 git clone https://github.com/cyber2611/IBLI2
 cd IBLI2
 ls
@@ -180,7 +179,7 @@ fi
 
 if [ $pil = 13 ]
 then
-figlet $nama|lolcat
+figlet install dark|lolcat
 git clone https://github.com/cyber2611/dark-asu
 cd dark-asu
 ls
@@ -189,7 +188,7 @@ fi
 
 if [ $pil = 14 ]
 then
-figlet $nama|lolcat
+figlet install dark|lolcat
 git clone https://github.com/cyber2611/BHV26
 cd BHV26
 ls
@@ -198,7 +197,7 @@ fi
 
 if [ $pil = 15 ]
 then
-figlet $nama|lolcat
+figlet install dark|lolcat
 git clone https://github.com/cyber2611/Mr.RENDY
 cd Mr.RENDY
 ls
