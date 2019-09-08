@@ -1,7 +1,7 @@
 #!/bin/bash
 clear
 echo
-python2 Mr.black
+python2 18+.py
 echo 
 clear
 bi='\033[34;1m' #BIRU
